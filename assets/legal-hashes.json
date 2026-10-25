@@ -1,0 +1,32 @@
+{
+  "es": {
+    "terms": {
+      "version": "2026-10-25",
+      "sha256": "1081d4f2d552bd2f099e559c3a2cd6f324c03cf531b2e79c0cd9fa7bc3368c0a"
+    },
+    "privacy": {
+      "version": "2026-10-25",
+      "sha256": "6200b999ce555a6a73e8fb535b98a97e44fa98b3d05eba9eac301614553c1800"
+    }
+  },
+  "en": {
+    "terms": {
+      "version": "2026-10-25",
+      "sha256": "cf32295a0c9fe7e713520b6a0ef921656e333ee89c493af2093485b176a41775"
+    },
+    "privacy": {
+      "version": "2026-10-25",
+      "sha256": "2a677edef6b2ffb06464d28579b9342969324618de76dd87bffcc808a3ec54a4"
+    }
+  },
+  "de": {
+    "terms": {
+      "version": "2026-10-25",
+      "sha256": "8e5ba9b64226f749aa39034d3e70fab9cc8aaf522d9276477e5a407e5a265153"
+    },
+    "privacy": {
+      "version": "2026-10-25",
+      "sha256": "c4a7ac814677477d373f11a0b823d91426ee11d6bf8801b3335ea1223f86874a"
+    }
+  }
+}
